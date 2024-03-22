@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+background-image: url('https://wallup.net/wp-content/uploads/2017/11/23/442703-street_light-building-taxi-748x499.jpg');
+background-repeat: no-repeat;
+ 
+background-size: cover;
+} 
+.container {
+  position: relative;
+  width: 50%;
+}
+.containerr {
+  position: relative;
+  width: 50%;
+}
+
+.image {
+  display: block;
+  position: absolute;
+  top: 140px;
+  left: 40%;
+   border-radius: 50%;
+  width: 50%;
+  height: auto;
+}
+.image2 {
+  display: block;
+  position: relative;
+   bottom: -140px;
+  left: 100%;
+   border-radius: 50%;
+  width: 50%;
+  height: auto;
+}
+
+
+	
+
+</style>
+</head>
+<body>
+
+
+<div class="container"> 
+<div>
+ <a href="driver.php"> <img src="https://i.pinimg.com/736x/89/90/48/899048ab0cc455154006fdb9676964b3.jpg"  class="image">
+
+      </div>
+  </a>
+  
+  
+ </div> 
+ </div>
+ 
+ 
+  
+<div class="containerr">
+<div>
+<a href="login.php">  <img src="https://cdn-icons-png.flaticon.com/512/219/219986.png" class="image2">
+</a>
+
+</div>
+</div>
+</body>
+</html>
